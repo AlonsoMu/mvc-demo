@@ -1,10 +1,11 @@
 <?php
+// Clas = Plantilla => creamos objetos | compone => Atributos, métodos(verbo)
 
 class Curso{
 
 
   //ATRIBUTO (contenedor de datos)
-  //Data sera un arreglao asociativo multidimensional
+  //Data sera un Arreglo asociativo multidimensional
   private $data = [
     [
       "id"    => 1,
@@ -47,7 +48,8 @@ class Curso{
     ]
   ];
 
-  //Metodos 
+  //Metodos: Permite Listar datos
+  //
   public function listarCursos(){
     return $this->data;
   }
