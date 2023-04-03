@@ -1,0 +1,38 @@
+{
+  "infopersonal" : {
+    "datos" : {
+      "apellidos" : "Muñoz Quispe",
+      "nombres"   : "Alonso Enrique",
+      "edad"      : 19,
+      "telefono"  : "970526015"
+    },
+    "mifamilia" : {
+      "abuela"  : "Maria",
+      "primos"  : ["Gabriel", "Diego"],
+      "hermanas": ["Olenka", "Ariana", "Priscila"]
+    }
+  },
+  "formacion" : {
+    "primaria"    : ["IEP San Jose","Francisco Corbetto Rocca"],
+    "secundaria"  : ["Millenium","JPB"],
+    "superior"    : ["SENATI"]
+  },
+  "habilidades"  : {
+    "deportivas"    :{
+      "bastket"     :["Equipo A", "Equipo B", "Equipo C"],
+      "karate"      :["Cinta verde", "Cinta marron", "Cinta negra"]
+    },
+    "sociales"      :{
+      "intrapersonales" : ["autocontrol", "autoestima", "resilencia"],
+      "interpersonales" : ["liderazgo", "trabajo en equipo"]
+    },
+    "profesional" :{
+      "programador"   : {
+        "lenguajes"   : ["PHP", "C++", "Python", "JS", "CSS", "SQL"],
+        "basedatos"   : ["MySQl", "MS SQL Server", "Oracle DB", "SQLite"],
+        "devmovil"    : ["ReactNative", "Kotlin", "Java", "Xamarin"]
+      },
+      "docente"       : ["Institucion 1", "Institucion 2", "SENATI"]
+    }
+  }
+}

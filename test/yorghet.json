@@ -1,0 +1,38 @@
+{
+  "Información Personal"  :{
+    "datos" : {
+      "apellidos"         : "Hernandez Yerén",
+      "nombres"           : "Yorghet Fernanda",
+      "edad"              : 19,
+      "telefono"          : "946989937"
+    },
+    "mifamilia" : {
+      "papá"              : "Fernando",
+      "mamá"              : "Margarita",
+      "hermanos"          : ["Aitana","Jesús"]
+    }
+  },
+  "Formación" :{
+    "primaria"            : ["I.E. Francisco Corbetto Rocca"],
+    "secundaria"          : ["Santa Ana"],
+    "superior"            : ["SENATI"]
+  },
+  "Habilidades" :{
+    "deportivas"  : {
+      "futbol"            : ["Equipo A", "Equipo B", "Equipo C"],
+      "karate"            : ["Cinta verde", "Cinta marrón", "Cinta negra"]
+    },
+    "sociales"    : {
+      "intrapersonales"   : ["autocontrol", "autoestima", "resiliencia"],
+      "interpersonales"   : ["liderazgo", "trabajo en equipo"]
+    },
+    "profesional" : {
+      "programador"       : {
+        "lenguajes"       : ["PHP", "C++", "Python", "JS", "CSS", "SQL"],
+        "base datos"      : ["MySQL", "MS SQL Server", "Oracle DB", "SQLite"],
+        "devmovil"        : ["ReactNative", "Kotlin", "Java", "Xamarin"]
+      },
+      "docente"           : ["Institución 1", "Institución 2", "SENATI"]
+    }
+  }
+}
